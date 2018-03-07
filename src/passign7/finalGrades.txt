@@ -1,0 +1,24 @@
+100.00
+93.33
+66.67
+100.00
+76.00
+81.33
+99.33
+53.33
+33.33
+96.67
+90.00
+53.33
+63.33
+86.67
+80.00
+90.00
+80.00
+80.00
+
+The total number of grades is: 18
+
+The sum of all of the grades is: 2135
+
+The average grade is: 118.00
